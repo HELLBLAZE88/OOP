@@ -27,7 +27,7 @@ class Risyika {
 
 	// установка высоты
 	setHeigth(heigth) {
-	this.hmm.style.height = heigth + 'px';
+	this.hmm.style.heigth = heigth + 'px';
 	}
 }
 
